@@ -19,17 +19,18 @@ Data wrangling to get it operational for the statistical analysis.
 Balance the dataset by matching man-woman pairs on the following features : category of age (probably dividing into <50 years old, >50y.o.), race, whether a search was conducted, the reason for the stop. These features will allow to avoid the infra-marginality problem discussed in the additional papers, as individuals with the most similar probability to be carrying contraband are matched. 
 Evaluate the mean difference in outcome “Frisk performed” of all pairs. 
 Present and discuss the results, compare results from different states/cities. 
-Address outlook and improvements of the analysis, and further information that could have been interesting for our analysis (antecedents of stopped/frisked people).
+Address outlook and improvements of the analysis, and further information that could have been interesting to perform our analysis (antecedents of stopped/frisked people).
 
 ##### Proposed timeline 
 P3 due on the 27.11.20.
-Week 30.11 : choice of states that present enough complete information, data wrangling.
-Week 07.12 : computation of stop rates, search rates and hit rates for each states, implement threshold test.
-Week 14.12 : compute thresholds for each states, present and discuss results.
+Week 30.11 : choice of states that present enough complete information, data wrangling, computation of stop rates.
+Week 07.12 : Matching of pairs, outcome results computation. 
+Week 14.12 : present, compare and discuss results.
 Extension analysis due on the 18.12.20. 
 
 ##### Organization within the team 
-As was done until now, we’ll try to split the work equally, and regularly review the work done by the others to improve it. We have planned to work in a team of 2 early enough on the threshold test implementation as it seems to be the most challenging task.
+As was done until now, we’ll try to split the work equally, and regularly review the work done by the others to improve it.
 
 ##### Questions for TAs (optional)
 Would it make sense to match the man-woman pairs also over the feature ‘Contraband found’? 
+
