@@ -29,7 +29,13 @@ P3 due on the 27.11.20.
 Extension analysis due on the 18.12.20. 
 
 ##### Organization within the team 
-As was done until now, we’ll try to split the work equally, and regularly review the work done by the others to improve it.
+we will first distribute all our data equally among each member.
+
+each member of the group  will be responsible for the data wrangling and computation of stop rates for their data
+
+And until the end of our analyse we will assign someone to write the analyse and the rest will do pair programming and depending we will maybe assign only one person to coding if not much work is needed.
+
+In group we will aggregate and discuss about our result
 
 ##### Questions for TAs (optional)
 Would it make sense to match the man-woman pairs also over the feature ‘Contraband found’? 
