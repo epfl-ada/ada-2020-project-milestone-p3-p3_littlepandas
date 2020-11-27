@@ -23,9 +23,9 @@ Address outlook and improvements of the analysis, and further information that c
 
 ##### Proposed timeline 
 P3 due on the 27.11.20.
-Week 30.11 : choice of states that present enough complete information, data wrangling, computation of stop rates.
-Week 07.12 : Matching of pairs, outcome results computation. 
-Week 14.12 : present, compare and discuss results.
+ - Week 30.11 : choice of states that present enough complete information, data wrangling, computation of stop rates.
+ - Week 07.12 : Matching of pairs, outcome results computation. 
+ - Week 14.12 : present, compare and discuss results.
 Extension analysis due on the 18.12.20. 
 
 ##### Organization within the team 
