@@ -37,3 +37,6 @@ Each member of the group  will be responsible for the data wrangling and computa
 Then we will assign someone to write the analyse and the two others will do pair programming for the rest of the analysis. 
 
 In group we will aggregate the results and discuss them.
+
+##### Datastory
+https://martinbeaussart.github.io/usa_genderl_disparities_police/
