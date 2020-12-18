@@ -1,0 +1,16 @@
+*intro*
+
+Case study on Florida state : influence of the officers' gender on the stop outcome decision
+Let's dig into even more details concerning stop decisions. What happens if we split female from male officers, and look for the average outcome difference ? The aim of this analysis is to find out if the officer's gender has an impact on a potential bias in decision making. For this purpose, a similar methodology is applied as before to balance our dataset, and outcome difference for each type of potential violation will be compared. Very few datasets contain all information needed for this analysis, hence it is performed only on the big dataset of Florida state (3.2 Mio stop records for men officers, 0.25 Mio for women officers before filtering). 
+
+*for horizontal barplot*
+
+The AOD for the woman officers is near 0, and the confidence interval ranges from negative to positive values : at this point, it is not possible to determine whether woman officers take biased decisions. However, it seems different for men : their average outcome when deciding on the outcome of a stop seems to indicate that they tend to search men more than woman drivers, even if the age range, race, subjective indicator (reason for stop) are identical for them.
+
+*for the vertical barplot*
+
+From the results when splitting men from women officers, and splitting the group by type of reason, some interesting findings appear : 
+- Men officers are more gentle with female drivers, reprehending them less than male drivers, whereas women officers do not make a significant difference between them. The exact inverse conclusion can be drawn for the seatbelt violation. 
+- Both men and women officers seem more gentle with female drivers that have faulty equipment, as well as other types of TAG or registration violations.
+- Men officers seem particularly biased regarding "Other type of moving violation" : hence men officers decide themselves for harder outcomes when facing a male driver. This is however not the case for female officers, acting equally on male and female drivers for this violation type. 
+- Female officers seem particularly biased with female for traffic control device violation : they tend to let them get away more easily than men drivers.
